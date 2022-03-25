@@ -4,4 +4,4 @@ from django.http import HttpResponse
 # Create your views here.
 
 def home(request):
-    return HttpResponse('hello this is home page')
+    return HttpResponse('hello this is home page by github and pythonanywhere')
